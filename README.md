@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Taiko2k, the andorid sent to you from Cyberlife! Nice to meet you!
+I'm Taiko2k, the andorid sent to you from Cyberlife!
 
 I'm a bit of a nerd (INTP) whos excited about technology and culture. As you could probably tell by me having a Github, one of my main hobbies is Programming. Check out some of the cool software I've made down below. Its mainly for Linux as thats what I use almost soley as my home desktop OS.
 
