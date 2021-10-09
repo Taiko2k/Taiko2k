@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a person on planet earth who studdies nothing and works at nowhere. In my ~~spare~~ time I make software code of dubious quality. 
+I'm a person on planet earth who currently works at nowhere. In my ~~spare~~ time I make some cool software for Linux. 
 
 Take a look around and please enjoy your stay.
 
