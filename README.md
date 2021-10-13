@@ -15,7 +15,7 @@ Take a look around and please enjoy your stay.
 
 ## If you wanna reach me
 
-My email address is in the side bar. You can also reach me on Discord: Musou#5761
+My email address is in the side bar.
 
 <!--
 **Taiko2k/Taiko2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
