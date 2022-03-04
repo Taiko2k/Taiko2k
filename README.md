@@ -1,8 +1,7 @@
 ### Hi there friend 👋
 
-## About me
 
-I my spare time I make some cool software for Linux. 
+I make some cool software for Linux. 
 
 Take a look around and enjoy your stay.
 
