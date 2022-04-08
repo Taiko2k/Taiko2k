@@ -5,7 +5,6 @@ I make some cool software for Linux.
 
 Take a look around and enjoy your stay.
 
-(Avatar from twitter:[@expuella](https://twitter.com/expuella))
 
 <!--
 **Taiko2k/Taiko2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
