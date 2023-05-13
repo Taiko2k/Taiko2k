@@ -1,9 +1,10 @@
-### Hi there friend 👋
+### Hi there friend :milky_way:
 
+I make some cool software for Linux. Take a look around and enjoy your stay.
 
-I make some cool software for Linux. 
+Socials: [Twitter](https://twitter.com/starlightcodex) | [Rate Your Music](https://rateyourmusic.com/~Taiyo)
 
-Take a look around and enjoy your stay.
+*Love is the law, love under will.*
 
 
 <!--
