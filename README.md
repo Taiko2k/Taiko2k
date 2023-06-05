@@ -2,11 +2,6 @@
 
 I make some cool software for Linux. Take a look around and enjoy your stay.
 
-Socials: [Twitter](https://twitter.com/starlightcodex) | [Rate Your Music](https://rateyourmusic.com/~Taiyo)
-
-*Love is the law, love under will.*
-
-
 <!--
 **Taiko2k/Taiko2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
